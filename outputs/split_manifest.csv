@@ -1,0 +1,442 @@
+path,label,group,split
+pest_data/ML/Aphids/2-1536x1536.jpg,Aphids,pest_data/ML/Aphids/2-1536x1536.jpg,train
+pest_data/ML/Aphids/2019-10-23-01-1536x2048.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-02-1536x1152.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-03.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-04.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-05.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-06.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-07.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-08.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-09.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/2019-10-23-11.jpg.webp,Aphids,Aphids:series:0,train
+pest_data/ML/Aphids/464.jpg,Aphids,pest_data/ML/Aphids/464.jpg,train
+pest_data/ML/Aphids/5168-aphids_79905b8c-12cd-4ff4-8a98-5e5d734aae27.webp,Aphids,pest_data/ML/Aphids/5168-aphids_79905b8c-12cd-4ff4-8a98-5e5d734aae27.webp,train
+pest_data/ML/Aphids/5315-aphids.webp,Aphids,pest_data/ML/Aphids/5315-aphids.webp,train
+pest_data/ML/Aphids/6273fdc894a2c10018ee197c.webp,Aphids,pest_data/ML/Aphids/6273fdc894a2c10018ee197c.webp,train
+pest_data/ML/Aphids/799-2-1536x1024.jpg,Aphids,pest_data/ML/Aphids/799-2-1536x1024.jpg,test
+pest_data/ML/Aphids/9-1536x1536.jpg,Aphids,pest_data/ML/Aphids/9-1536x1536.jpg,train
+pest_data/ML/Aphids/Aphid-Infestation-on-Elder.webp,Aphids,pest_data/ML/Aphids/Aphid-Infestation-on-Elder.webp,train
+pest_data/ML/Aphids/Aphid-infestation.jpg,Aphids,pest_data/ML/Aphids/Aphid-infestation.jpg,val
+pest_data/ML/Aphids/Aphid-on-lupine-jpg.webp,Aphids,pest_data/ML/Aphids/Aphid-on-lupine-jpg.webp,train
+pest_data/ML/Aphids/Aphids (Outdoor)_Asclepias incarnata (DM) (5).JPG,Aphids,pest_data/ML/Aphids/Aphids (Outdoor)_Asclepias incarnata (DM) (5).JPG,test
+pest_data/ML/Aphids/Aphids - Malus (MBG - Vegetable Garden) (DM).JPG,Aphids,pest_data/ML/Aphids/Aphids - Malus (MBG - Vegetable Garden) (DM).JPG,train
+pest_data/ML/Aphids/Aphids-on-Broad-Beans.jpg,Aphids,pest_data/ML/Aphids/Aphids-on-Broad-Beans.jpg,train
+pest_data/ML/Aphids/Aphids-on-Cherry-Leaf.webp,Aphids,pest_data/ML/Aphids/Aphids-on-Cherry-Leaf.webp,test
+pest_data/ML/Aphids/DSCN2253.JPG,Aphids,pest_data/ML/Aphids/DSCN2253.JPG,val
+pest_data/ML/Aphids/Fruit-Tree-Leaves-with-Aphids.webp,Aphids,pest_data/ML/Aphids/Fruit-Tree-Leaves-with-Aphids.webp,val
+pest_data/ML/Aphids/GS_Aphid_blog.jpg,Aphids,pest_data/ML/Aphids/GS_Aphid_blog.jpg,train
+pest_data/ML/Aphids/aphid-control-6.webp,Aphids,pest_data/ML/Aphids/aphid-control-6.webp,train
+pest_data/ML/Aphids/aphid-infestation-header.jpg,Aphids,pest_data/ML/Aphids/aphid-infestation-header.jpg,test
+pest_data/ML/Aphids/aphid_damage_leaves.webp,Aphids,pest_data/ML/Aphids/aphid_damage_leaves.webp,train
+pest_data/ML/Aphids/aphid_multiple_colors.jpg,Aphids,pest_data/ML/Aphids/aphid_multiple_colors.jpg,train
+pest_data/ML/Aphids/aphids-2.png,Aphids,pest_data/ML/Aphids/aphids-2.png,test
+pest_data/ML/Aphids/aphids-3-qb3hzf0pzoh8jiymwdmozj5v6ije61zvml13kggjuw.png,Aphids,pest_data/ML/Aphids/aphids-3-qb3hzf0pzoh8jiymwdmozj5v6ije61zvml13kggjuw.png,val
+pest_data/ML/Aphids/aphids-4.png,Aphids,pest_data/ML/Aphids/aphids-4.png,train
+pest_data/ML/Aphids/aphids-rosebud-aphid-infestation-green-aphids-shutterstock-com_13155.webp,Aphids,pest_data/ML/Aphids/aphids-rosebud-aphid-infestation-green-aphids-shutterstock-com_13155.webp,train
+pest_data/ML/Aphids/aphids.jpg,Aphids,pest_data/ML/Aphids/aphids.jpg,train
+pest_data/ML/Aphids/aphids1_850.jpg,Aphids,Aphids:series:2,train
+pest_data/ML/Aphids/aphids2_850.jpg,Aphids,Aphids:series:2,train
+pest_data/ML/Aphids/aphids3_850(2).jpg,Aphids,Aphids:series:2,train
+pest_data/ML/Aphids/aphids_bfd.jpg,Aphids,pest_data/ML/Aphids/aphids_bfd.jpg,train
+pest_data/ML/Aphids/aphids_on_plant_leaves.webp,Aphids,pest_data/ML/Aphids/aphids_on_plant_leaves.webp,train
+pest_data/ML/Aphids/articles-pests-diseases-aphids-4.jpg.webp,Aphids,Aphids:series:1,val
+pest_data/ML/Aphids/articles-pests-diseases-aphids-5.jpg.webp,Aphids,Aphids:series:1,val
+pest_data/ML/Aphids/get-rid-aphids-03-1536x2048.jpg.webp,Aphids,pest_data/ML/Aphids/get-rid-aphids-03-1536x2048.jpg.webp,val
+pest_data/ML/Aphids/get-rid-of-aphids-organic-natural-control-green.jpg,Aphids,pest_data/ML/Aphids/get-rid-of-aphids-organic-natural-control-green.jpg,val
+pest_data/ML/Aphids/green-aphids-on-plant.jpg.webp,Aphids,pest_data/ML/Aphids/green-aphids-on-plant.jpg.webp,train
+pest_data/ML/Aphids/homemade-insect-soap-spray-recipe-feature.jpg,Aphids,pest_data/ML/Aphids/homemade-insect-soap-spray-recipe-feature.jpg,val
+pest_data/ML/Aphids/how-to-get-rid-of-aphids-naturally.jpg,Aphids,pest_data/ML/Aphids/how-to-get-rid-of-aphids-naturally.jpg,test
+pest_data/ML/Aphids/how-to-get-rid-of-aphids.jpg,Aphids,pest_data/ML/Aphids/how-to-get-rid-of-aphids.jpg,test
+pest_data/ML/Aphids/how-to-identify-aphids-indianapolis.webp,Aphids,pest_data/ML/Aphids/how-to-identify-aphids-indianapolis.webp,train
+pest_data/ML/Aphids/how-to-identify-aphids_full_width.jpeg,Aphids,pest_data/ML/Aphids/how-to-identify-aphids_full_width.jpeg,train
+pest_data/ML/Aphids/istockphoto-1050575232-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1050575232-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1087867646-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1087867646-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1132213310-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1132213310-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1153374140-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1153374140-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1153884073-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1153884073-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1154671275-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1154671275-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-1155005271-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1155005271-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1162679608-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1162679608-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1168991449-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1168991449-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1189138446-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1189138446-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-1205142622-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1205142622-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1209772753-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1209772753-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1225085667-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1225085667-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1225655610-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1225655610-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1225852679-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1225852679-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1240757329-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1240757329-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1240757332-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1240757332-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1250026972-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1250026972-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1266629982-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1266629982-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-1272603825-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1272603825-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1306440710-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1306440710-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1308234846-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1308234846-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-1308575738-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1308575738-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-1314080814-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1314080814-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-1332700403-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1332700403-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1333752953-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1333752953-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1334349560-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1334349560-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1350697222-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1350697222-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1356457057-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1356457057-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-1363676631-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1363676631-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1365844874-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1365844874-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1366216339-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1366216339-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1370744067-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1370744067-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1383013852-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1383013852-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1389526821-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1389526821-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1393126363-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1393126363-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1398600160-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1398600160-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1400080020-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1400080020-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1401359591-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1401359591-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-1404675441-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1404675441-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1404702372-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1404702372-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1405251173-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1405251173-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1407984067-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1407984067-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1408440528-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1408440528-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1415817216-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1415817216-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1421386474-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1421386474-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1440020710-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1440020710-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1440020803-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1440020803-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1483464703-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1483464703-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1491134750-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1491134750-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1506767538-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1506767538-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-154962271-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-154962271-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1571781474-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1571781474-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-178610334-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-178610334-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-1985577005-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1985577005-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2008218513-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2008218513-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2149034635-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2149034635-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2153071658-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2153071658-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2154171035-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2154171035-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-2161365060-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2161365060-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-2163486815-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2163486815-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-2169509370-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2169509370-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2170168096-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2170168096-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2170507912-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2170507912-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-2172379563-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2172379563-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2176456626-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2176456626-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2180222452-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2180222452-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2199647630-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2199647630-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2213112181-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2213112181-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2214090834-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2214090834-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-2215233843-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2215233843-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2216085571-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2216085571-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-2217019033-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2217019033-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2218141453-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2218141453-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-2228955850-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2228955850-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-2230106085-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2230106085-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2235442138-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2235442138-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2265624108-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2265624108-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2268732169-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2268732169-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-2284917033-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2284917033-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-484959818-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-484959818-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-502188576-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-502188576-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-506102963-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-506102963-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-523411481-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-523411481-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-523629307-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-523629307-612x612.jpg,val
+pest_data/ML/Aphids/istockphoto-525020950-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-525020950-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-538774512-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-538774512-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-610655312-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-610655312-612x612.jpg,test
+pest_data/ML/Aphids/istockphoto-846406500-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-846406500-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-861695178-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-861695178-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-894436400-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-894436400-612x612.jpg,train
+pest_data/ML/Aphids/istockphoto-965578020-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-965578020-612x612.jpg,train
+pest_data/ML/Aphids/oleander aphids 3.webp,Aphids,Aphids:series:3,test
+pest_data/ML/Aphids/oleander aphids 4.webp,Aphids,Aphids:series:3,test
+pest_data/ML/Aphids/organic-aphid-control-black-aphids-nasturtium-1.jpeg,Aphids,pest_data/ML/Aphids/organic-aphid-control-black-aphids-nasturtium-1.jpeg,val
+pest_data/ML/Aphids/organic-aphid-control-feature-1536x1153.jpg,Aphids,pest_data/ML/Aphids/organic-aphid-control-feature-1536x1153.jpg,train
+pest_data/ML/Aphids/root-aphids-white-aphids-on-root-shutterstock-com_13157.webp,Aphids,pest_data/ML/Aphids/root-aphids-white-aphids-on-root-shutterstock-com_13157.webp,val
+pest_data/ML/Aphids/yjh6e576jns.2403141745550.jpg,Aphids,pest_data/ML/Aphids/yjh6e576jns.2403141745550.jpg,train
+pest_data/ML/Mealy Bugs/12-dracaena-mealybugs.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/12-dracaena-mealybugs.jpg,train
+pest_data/ML/Mealy Bugs/13-mealybugs-on-leaf.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/13-mealybugs-on-leaf.jpg,train
+pest_data/ML/Mealy Bugs/1317079-Papaya-mealy-bugs-e1499461614800-325x255.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/1317079-Papaya-mealy-bugs-e1499461614800-325x255.jpg,val
+pest_data/ML/Mealy Bugs/15-opuntia-mealybugs.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/15-opuntia-mealybugs.jpg,train
+pest_data/ML/Mealy Bugs/1595px-mealybugs-of-flower-stem-yogyakarta-2014-10-31.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/1595px-mealybugs-of-flower-stem-yogyakarta-2014-10-31.jpg,val
+pest_data/ML/Mealy Bugs/20170210c1_eff4fd1f-47dd-4520-a9fb-f5356fa09592.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/20170210c1_eff4fd1f-47dd-4520-a9fb-f5356fa09592.jpg,train
+pest_data/ML/Mealy Bugs/21883687_s.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/21883687_s.webp,train
+pest_data/ML/Mealy Bugs/26 may 2020 cotton tip GJ.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/26 may 2020 cotton tip GJ.webp,train
+pest_data/ML/Mealy Bugs/26169994132-3e82162932-o.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/26169994132-3e82162932-o.jpg,train
+pest_data/ML/Mealy Bugs/3-mealybugs-infestation.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/3-mealybugs-infestation.jpg,train
+pest_data/ML/Mealy Bugs/DSCN3065.JPG,Mealy Bugs,pest_data/ML/Mealy Bugs/DSCN3065.JPG,train
+pest_data/ML/Mealy Bugs/Etsy-Shop-Owner-Photo-2.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/Etsy-Shop-Owner-Photo-2.webp,val
+pest_data/ML/Mealy Bugs/GettyImages-1357298822.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/GettyImages-1357298822.jpg,train
+pest_data/ML/Mealy Bugs/GettyImages-1455890819-e86c65d0a2b844cbb49fb5e260b59931.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/GettyImages-1455890819-e86c65d0a2b844cbb49fb5e260b59931.jpg,test
+pest_data/ML/Mealy Bugs/GettyImages-1462297123-e1708440052724.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/GettyImages-1462297123-e1708440052724.jpg,train
+pest_data/ML/Mealy Bugs/HGIC_IndoorPlants_mealybug_cactus_MDA_400.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/HGIC_IndoorPlants_mealybug_cactus_MDA_400.jpg,test
+pest_data/ML/Mealy Bugs/How-To-Get-Rid-Of-Mealybugs.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/How-To-Get-Rid-Of-Mealybugs.webp,train
+pest_data/ML/Mealy Bugs/I-HO-PMAD-CO.001banner.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/I-HO-PMAD-CO.001banner.jpg,train
+pest_data/ML/Mealy Bugs/I-HO-PMAR-EG.013.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/I-HO-PMAR-EG.013.jpg,test
+pest_data/ML/Mealy Bugs/Long-Tail-Mealybugs__FillWzEyMDAsNzA0XQ_ExtRewriteWyJqcGciLCJ3ZWJwIl0.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/Long-Tail-Mealybugs__FillWzEyMDAsNzA0XQ_ExtRewriteWyJqcGciLCJ3ZWJwIl0.webp,train
+pest_data/ML/Mealy Bugs/Mealy_Cover_a833a1d7-02cb-4dca-961a-ec99c9c0ab60_1512x.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/Mealy_Cover_a833a1d7-02cb-4dca-961a-ec99c9c0ab60_1512x.webp,train
+pest_data/ML/Mealy Bugs/Mealybug-GettyImages-167785530-5b992fcdc9e77c00501fc004.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/Mealybug-GettyImages-167785530-5b992fcdc9e77c00501fc004.jpg,train
+pest_data/ML/Mealy Bugs/Mealybug-infestion-681x1024.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/Mealybug-infestion-681x1024.jpg,train
+pest_data/ML/Mealy Bugs/Mealybug_Outdoors2180.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/Mealybug_Outdoors2180.jpg,train
+pest_data/ML/Mealy Bugs/Mealybugs.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/Mealybugs.jpg,train
+pest_data/ML/Mealy Bugs/PMBinfestationFrangipani-scaled-1-1024x913.avif.png,Mealy Bugs,pest_data/ML/Mealy Bugs/PMBinfestationFrangipani-scaled-1-1024x913.avif.png,train
+pest_data/ML/Mealy Bugs/PapayaMealybugFrangipani-1536x1152.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/PapayaMealybugFrangipani-1536x1152.webp,train
+pest_data/ML/Mealy Bugs/Pests_Smaller-4.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/Pests_Smaller-4.webp,train
+pest_data/ML/Mealy Bugs/Sooty-black-mold-from-mealybug-infestation-768x512.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/Sooty-black-mold-from-mealybug-infestation-768x512.jpg,test
+pest_data/ML/Mealy Bugs/aeonium-mardi-gras-768x1024.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/aeonium-mardi-gras-768x1024.jpg,val
+pest_data/ML/Mealy Bugs/basil_bug.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/basil_bug.jpg,train
+pest_data/ML/Mealy Bugs/different-stages-of-mealybug-life-cycle.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/different-stages-of-mealybug-life-cycle.jpg,val
+pest_data/ML/Mealy Bugs/download.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/download.webp,train
+pest_data/ML/Mealy Bugs/guava-mealy-bug1.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/guava-mealy-bug1.webp,train
+pest_data/ML/Mealy Bugs/hibiscus-mealybug-citrus-infestation.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/hibiscus-mealybug-citrus-infestation.webp,val
+pest_data/ML/Mealy Bugs/how-to-control-mealybugs-1902890-closeup-56dc58c1d38a4ccb949f740408ccf20a-9bdf2372fde04d5d8ecdb99426de31ff.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/how-to-control-mealybugs-1902890-closeup-56dc58c1d38a4ccb949f740408ccf20a-9bdf2372fde04d5d8ecdb99426de31ff.jpg,train
+pest_data/ML/Mealy Bugs/how-to-get-rid-of-mealybugs-on-houseplants.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/how-to-get-rid-of-mealybugs-on-houseplants.jpg,train
+pest_data/ML/Mealy Bugs/how-to-treat-mealybug.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/how-to-treat-mealybug.webp,train
+pest_data/ML/Mealy Bugs/im-in-the-process-of-restoring-a-large-atrium-that-was-not-v0-4hjntxp61zx61.webp,Mealy Bugs,Mealy Bugs:series:7,train
+pest_data/ML/Mealy Bugs/im-in-the-process-of-restoring-a-large-atrium-that-was-not-v0-ultp7m051zx61.webp,Mealy Bugs,Mealy Bugs:series:7,train
+pest_data/ML/Mealy Bugs/img_5738.webp,Mealy Bugs,Mealy Bugs:series:19,val
+pest_data/ML/Mealy Bugs/img_5742.webp,Mealy Bugs,Mealy Bugs:series:19,val
+pest_data/ML/Mealy Bugs/img_8823.jpg(mediaclass-full-width.c3083fedae46a95f1139ff9d5833b1b6b8e20a69).jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/img_8823.jpg(mediaclass-full-width.c3083fedae46a95f1139ff9d5833b1b6b8e20a69).jpg,train
+pest_data/ML/Mealy Bugs/intro-1697125753.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/intro-1697125753.webp,train
+pest_data/ML/Mealy Bugs/istockphoto-1062926260-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1062926260-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1062926394-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1062926394-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1155005286-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1155005286-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1162340490-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1162340490-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1166528043-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1166528043-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-1195899683-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1195899683-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1195899737-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1195899737-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1213423742-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1213423742-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1295933037-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1295933037-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1323189433-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1323189433-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-1323189517-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1323189517-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1326275889-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1326275889-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1326275947-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1326275947-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1356774834-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1356774834-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1356774840-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1356774840-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1356924511-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1356924511-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1357057831-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1357057831-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1360050212-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1360050212-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-1367361463-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1367361463-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1367370567-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1367370567-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1375971901-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1375971901-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1375973517-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1375973517-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-1375973518-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1375973518-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1375982259-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1375982259-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1410471596-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1410471596-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1449367626-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1449367626-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1452339251-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1452339251-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-1452339270-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1452339270-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-1462297138-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1462297138-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1495077353-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1495077353-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-172208752-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-172208752-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-1803055300-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1803055300-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1826025663-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1826025663-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1826028385-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1826028385-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-184299381-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-184299381-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-1879375779-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1879375779-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-2013394072-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2013394072-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2022363700-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2022363700-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2022364218-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2022364218-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2148352023-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2148352023-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2151771705-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2151771705-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2154041233-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2154041233-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2154041312-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2154041312-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2156285289-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2156285289-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-2167353233-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2167353233-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-2167353241-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2167353241-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2167710691-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2167710691-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2221136187-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2221136187-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2221136202-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2221136202-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-2221136211-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2221136211-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2251076196-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2251076196-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-2252679204-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2252679204-612x612.jpg,val
+pest_data/ML/Mealy Bugs/istockphoto-2295031914-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2295031914-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-461952247-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-461952247-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-470416757-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-470416757-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-475523584-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-475523584-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-482582619-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-482582619-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-483872938-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-483872938-612x612.jpg,test
+pest_data/ML/Mealy Bugs/istockphoto-484295939-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-484295939-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-484375533-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-484375533-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-492864409-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-492864409-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-493568645-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-493568645-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-493887867-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-493887867-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-538813237-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-538813237-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-546446242-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-546446242-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-546447924-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-546447924-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-625724344-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-625724344-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-636939386-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-636939386-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-636939984-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-636939984-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-636940400-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-636940400-612x612.jpg,train
+pest_data/ML/Mealy Bugs/istockphoto-695393030-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-695393030-612x612.jpg,test
+pest_data/ML/Mealy Bugs/little-white-mealybugs-on-succulents.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/little-white-mealybugs-on-succulents.jpg,val
+pest_data/ML/Mealy Bugs/mealy-bug-dirt.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealy-bug-dirt.jpg,train
+pest_data/ML/Mealy Bugs/mealy-bug-egg-sacs.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealy-bug-egg-sacs.jpg,train
+pest_data/ML/Mealy Bugs/mealy-bug-on-mango-uganda-1.jpg,Mealy Bugs,Mealy Bugs:series:5,train
+pest_data/ML/Mealy Bugs/mealy-bug-on-mango-uganda-2.jpg,Mealy Bugs,Mealy Bugs:series:5,train
+pest_data/ML/Mealy Bugs/mealy-bug-on-mango-uganda-3.jpg,Mealy Bugs,Mealy Bugs:series:5,train
+pest_data/ML/Mealy Bugs/mealybug-eggmass2.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybug-eggmass2.jpg,train
+pest_data/ML/Mealy Bugs/mealybug-group.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybug-group.jpg,test
+pest_data/ML/Mealy Bugs/mealybug-hibiscus.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybug-hibiscus.jpg,train
+pest_data/ML/Mealy Bugs/mealybug-in-cassava-tanzania-1.jpg,Mealy Bugs,Mealy Bugs:series:6,test
+pest_data/ML/Mealy Bugs/mealybug-in-cassava-tanzania-2.jpg,Mealy Bugs,Mealy Bugs:series:6,test
+pest_data/ML/Mealy Bugs/mealybug-in-cassava-tanzania-3.jpg,Mealy Bugs,Mealy Bugs:series:6,test
+pest_data/ML/Mealy Bugs/mealybug_agave.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybug_agave.jpg,val
+pest_data/ML/Mealy Bugs/mealybugs-01-1536x2048.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-04-1536x1152.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-06-1536x1152.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-07-1536x1152.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-08-1536x1152.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-10-1536x1152.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-12.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-14-1536x1152.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-16-1536x1152.jpg.webp,Mealy Bugs,Mealy Bugs:series:4,train
+pest_data/ML/Mealy Bugs/mealybugs-1603725715105.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybugs-1603725715105.webp,train
+pest_data/ML/Mealy Bugs/mealybugs-coleus2.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybugs-coleus2.jpg,train
+pest_data/ML/Mealy Bugs/mealybugs-infestation-i-just-found-out-what-they-are-today-v0-2vxyud7wf8n91.webp,Mealy Bugs,Mealy Bugs:series:8,train
+pest_data/ML/Mealy Bugs/mealybugs-infestation-i-just-found-out-what-they-are-today-v0-bzidkl7wf8n91.webp,Mealy Bugs,Mealy Bugs:series:8,train
+pest_data/ML/Mealy Bugs/mealybugs-infestation-i-just-found-out-what-they-are-today-v0-l9dqzk7wf8n91.webp,Mealy Bugs,Mealy Bugs:series:8,train
+pest_data/ML/Mealy Bugs/mealybugs-infestation-i-just-found-out-what-they-are-today-v0-pi1ppo7wf8n91.webp,Mealy Bugs,Mealy Bugs:series:8,train
+pest_data/ML/Mealy Bugs/mealybugs-on-houseplants-og.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybugs-on-houseplants-og.webp,train
+pest_data/ML/Mealy Bugs/mealybugs-on-houseplants.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybugs-on-houseplants.webp,train
+pest_data/ML/Mealy Bugs/mealybugs2.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybugs2.webp,test
+pest_data/ML/Mealy Bugs/shutterstock_583236679.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/shutterstock_583236679.webp,train
+pest_data/ML/Mealy Bugs/what-are-mealybugs-1603725815040.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/what-are-mealybugs-1603725815040.webp,train
+pest_data/ML/Spider Mites/1049662-832a591832d1db537623b167e801aa1f.jpg,Spider Mites,pest_data/ML/Spider Mites/1049662-832a591832d1db537623b167e801aa1f.jpg,train
+pest_data/ML/Spider Mites/11879157_1387cf11677824f98139f05d24be9aa1_m.jpg,Spider Mites,pest_data/ML/Spider Mites/11879157_1387cf11677824f98139f05d24be9aa1_m.jpg,train
+pest_data/ML/Spider Mites/1234228-LGPT.jpg,Spider Mites,pest_data/ML/Spider Mites/1234228-LGPT.jpg,train
+pest_data/ML/Spider Mites/16_9_Hero_min_886a3550ee.jpg,Spider Mites,pest_data/ML/Spider Mites/16_9_Hero_min_886a3550ee.jpg,train
+pest_data/ML/Spider Mites/207._spidermitecolonywithwebbing_1024x1024.jxl.png,Spider Mites,pest_data/ML/Spider Mites/207._spidermitecolonywithwebbing_1024x1024.jxl.png,val
+pest_data/ML/Spider Mites/307463-2121x1414-red-spider-mites-1200x800.webp,Spider Mites,pest_data/ML/Spider Mites/307463-2121x1414-red-spider-mites-1200x800.webp,train
+pest_data/ML/Spider Mites/3_2_How_to_spot_spider_mites_min_e1f0d84ba9.jpg,Spider Mites,pest_data/ML/Spider Mites/3_2_How_to_spot_spider_mites_min_e1f0d84ba9.jpg,test
+pest_data/ML/Spider Mites/AeqzTI7ntBynyfaplnYN23VpW2W7VucXlSmYKBIS.webp,Spider Mites,pest_data/ML/Spider Mites/AeqzTI7ntBynyfaplnYN23VpW2W7VucXlSmYKBIS.webp,test
+pest_data/ML/Spider Mites/Do-Not-Ignore-These-Early-Signs-of-Spider-Mites.webp,Spider Mites,pest_data/ML/Spider Mites/Do-Not-Ignore-These-Early-Signs-of-Spider-Mites.webp,train
+pest_data/ML/Spider Mites/ELajJCywuhTpDngjepZMyg-1600-80.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/ELajJCywuhTpDngjepZMyg-1600-80.jpg.webp,val
+pest_data/ML/Spider Mites/HYG-2012-Fig1 copy.jpg,Spider Mites,Spider Mites:series:20,train
+pest_data/ML/Spider Mites/HYG-2012-SM.jpg.webp,Spider Mites,Spider Mites:series:20,train
+pest_data/ML/Spider Mites/How-to-Detect-and-Control-Spider-Mite-Infestations-Hero-2.jpg,Spider Mites,pest_data/ML/Spider Mites/How-to-Detect-and-Control-Spider-Mite-Infestations-Hero-2.jpg,test
+pest_data/ML/Spider Mites/How-to-Get-Rid-of-Spider-Mites-on-Houseplants-2.jpg,Spider Mites,Spider Mites:series:15,val
+pest_data/ML/Spider Mites/How-to-Get-Rid-of-Spider-Mites-on-Houseplants-3.webp,Spider Mites,Spider Mites:series:15,val
+pest_data/ML/Spider Mites/How-to-Get-Rid-of-Spider-Mites-on-Houseplants-4.webp,Spider Mites,Spider Mites:series:15,val
+pest_data/ML/Spider Mites/How-to-Get-Rid-of-Spider-Mites-on-Plants-_Fast_-Organic-Fixes_-Organo-Republic-269731873.jpg,Spider Mites,pest_data/ML/Spider Mites/How-to-Get-Rid-of-Spider-Mites-on-Plants-_Fast_-Organic-Fixes_-Organo-Republic-269731873.jpg,train
+pest_data/ML/Spider Mites/IMG_6712-1536x1362.jpg,Spider Mites,pest_data/ML/Spider Mites/IMG_6712-1536x1362.jpg,train
+pest_data/ML/Spider Mites/IMG_7653.webp,Spider Mites,pest_data/ML/Spider Mites/IMG_7653.webp,val
+pest_data/ML/Spider Mites/Mites-under-leaf.webp,Spider Mites,pest_data/ML/Spider Mites/Mites-under-leaf.webp,train
+pest_data/ML/Spider Mites/P6dHk8mKrJde7ysAPpPob6-1600-80.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/P6dHk8mKrJde7ysAPpPob6-1600-80.jpg.webp,test
+pest_data/ML/Spider Mites/Parlor-palm-with-spider-mites-528x938.jpg,Spider Mites,pest_data/ML/Spider Mites/Parlor-palm-with-spider-mites-528x938.jpg,train
+pest_data/ML/Spider Mites/Pests_Smaller-2_9ca25ad1-4e38-4342-89f7-279527d4c11a.webp,Spider Mites,pest_data/ML/Spider Mites/Pests_Smaller-2_9ca25ad1-4e38-4342-89f7-279527d4c11a.webp,test
+pest_data/ML/Spider Mites/RedSpiderMite_shutterstock_2193831973.webp,Spider Mites,pest_data/ML/Spider Mites/RedSpiderMite_shutterstock_2193831973.webp,val
+pest_data/ML/Spider Mites/SPIM1.jpg,Spider Mites,Spider Mites:series:14,train
+pest_data/ML/Spider Mites/SPIM2.jpg,Spider Mites,Spider Mites:series:14,train
+pest_data/ML/Spider Mites/SPIM4.jpg,Spider Mites,Spider Mites:series:14,train
+pest_data/ML/Spider Mites/SPIM5.jpg,Spider Mites,Spider Mites:series:14,train
+pest_data/ML/Spider Mites/Screen-Shot-2022-03-31-at-8.57.52-AM.webp,Spider Mites,pest_data/ML/Spider Mites/Screen-Shot-2022-03-31-at-8.57.52-AM.webp,val
+pest_data/ML/Spider Mites/Spider-Mites-2A.jpg,Spider Mites,pest_data/ML/Spider Mites/Spider-Mites-2A.jpg,test
+pest_data/ML/Spider Mites/Spider-Mites-Infesting-a-Houseplant.jpg,Spider Mites,pest_data/ML/Spider Mites/Spider-Mites-Infesting-a-Houseplant.jpg,test
+pest_data/ML/Spider Mites/Spider-mite-infestation_7cdd3d39-53fc-41dd-91c4-020aade992d6.webp,Spider Mites,pest_data/ML/Spider Mites/Spider-mite-infestation_7cdd3d39-53fc-41dd-91c4-020aade992d6.webp,train
+pest_data/ML/Spider Mites/Spider-mite-webbing-704x938.jpeg,Spider Mites,pest_data/ML/Spider Mites/Spider-mite-webbing-704x938.jpeg,train
+pest_data/ML/Spider Mites/Spider-mites-on-cannabis-leaf.webp,Spider Mites,pest_data/ML/Spider Mites/Spider-mites-on-cannabis-leaf.webp,train
+pest_data/ML/Spider Mites/Spider_Mites_2048x2048.webp,Spider Mites,pest_data/ML/Spider Mites/Spider_Mites_2048x2048.webp,train
+pest_data/ML/Spider Mites/Spider_Mites_and_Webbing_2424b5b7-faef-4086-8e07-3e9400e34b63.webp,Spider Mites,pest_data/ML/Spider Mites/Spider_Mites_and_Webbing_2424b5b7-faef-4086-8e07-3e9400e34b63.webp,train
+pest_data/ML/Spider Mites/Spider_mites-5_480x480.jxl.png,Spider Mites,Spider Mites:series:17,test
+pest_data/ML/Spider Mites/Spruce_Spider_Mite_24-12-13.jpg,Spider Mites,pest_data/ML/Spider Mites/Spruce_Spider_Mite_24-12-13.jpg,train
+pest_data/ML/Spider Mites/Tu-webbing.webp,Spider Mites,pest_data/ML/Spider Mites/Tu-webbing.webp,train
+pest_data/ML/Spider Mites/Twospotted_spider_mite_after_inoculation004.jpg,Spider Mites,Spider Mites:series:13,train
+pest_data/ML/Spider Mites/Twospotted_spider_mite_after_inoculation015.jpg,Spider Mites,Spider Mites:series:13,train
+pest_data/ML/Spider Mites/Twospotted_spider_mite_after_inoculation017.jpg,Spider Mites,Spider Mites:series:13,train
+pest_data/ML/Spider Mites/VaoDkRUHbuMfN4ahoJ4veG-1600-80.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/VaoDkRUHbuMfN4ahoJ4veG-1600-80.jpg.webp,test
+pest_data/ML/Spider Mites/Why-Spider-Mites-Appear-So-Suddenly-on-Alocasia.webp,Spider Mites,pest_data/ML/Spider Mites/Why-Spider-Mites-Appear-So-Suddenly-on-Alocasia.webp,train
+pest_data/ML/Spider Mites/YnkvXWioMWirT8KjUUBgG7.jpg,Spider Mites,pest_data/ML/Spider Mites/YnkvXWioMWirT8KjUUBgG7.jpg,test
+pest_data/ML/Spider Mites/a-plant-covered-in-spider-mite-webs.webp,Spider Mites,pest_data/ML/Spider Mites/a-plant-covered-in-spider-mite-webs.webp,test
+pest_data/ML/Spider Mites/adobestock_1444580610_fmt.png,Spider Mites,pest_data/ML/Spider Mites/adobestock_1444580610_fmt.png,train
+pest_data/ML/Spider Mites/adobestock_524535509_fmt.png,Spider Mites,pest_data/ML/Spider Mites/adobestock_524535509_fmt.png,test
+pest_data/ML/Spider Mites/are-these-baby-spiders-on-my-sage-if-so-does-anyone-know-v0-e3lbhwcxz5gg1.webp,Spider Mites,pest_data/ML/Spider Mites/are-these-baby-spiders-on-my-sage-if-so-does-anyone-know-v0-e3lbhwcxz5gg1.webp,train
+pest_data/ML/Spider Mites/article-SpiderMites.avif.png,Spider Mites,pest_data/ML/Spider Mites/article-SpiderMites.avif.png,train
+pest_data/ML/Spider Mites/blog108391.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/blog108391.jpg.webp,val
+pest_data/ML/Spider Mites/bsVgFpDmBnDsNwU6rC3TNg-1600-80.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/bsVgFpDmBnDsNwU6rC3TNg-1600-80.jpg.webp,train
+pest_data/ML/Spider Mites/csm_Spider-mite_10-facts_2_6cdef88235.webp,Spider Mites,pest_data/ML/Spider Mites/csm_Spider-mite_10-facts_2_6cdef88235.webp,train
+pest_data/ML/Spider Mites/customerspidermite.jpg.webp,Spider Mites,Spider Mites:series:10,val
+pest_data/ML/Spider Mites/customerspidermite3rd-1024x683.jpg.webp,Spider Mites,Spider Mites:series:10,val
+pest_data/ML/Spider Mites/customerspidermite4th.jpg.webp,Spider Mites,Spider Mites:series:10,val
+pest_data/ML/Spider Mites/customerspidermite5th.jpg.webp,Spider Mites,Spider Mites:series:10,val
+pest_data/ML/Spider Mites/customerspidermite6th-683x1024.jpg.webp,Spider Mites,Spider Mites:series:10,val
+pest_data/ML/Spider Mites/e874b40d-9595-4689-823c-aa6974ee3d73-07c58af.jpg,Spider Mites,pest_data/ML/Spider Mites/e874b40d-9595-4689-823c-aa6974ee3d73-07c58af.jpg,val
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-09.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-10_2048x2048.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-13_2048x2048.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-14_2048x2048.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-15.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-16_2048x2048.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-18.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-2.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-22_2048x2048.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-25_2048x2048.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-26_2048x2048.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-7.jpg,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites-8.webp,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/early-signs-of-spider-mites.jxl.png,Spider Mites,Spider Mites:series:9,train
+pest_data/ML/Spider Mites/fig-1-1.png,Spider Mites,pest_data/ML/Spider Mites/fig-1-1.png,train
+pest_data/ML/Spider Mites/help-i-think-i-have-a-spider-mite-infestation-v0-vh4tvknj5z7d1.webp,Spider Mites,Spider Mites:series:11,val
+pest_data/ML/Spider Mites/help-i-think-i-have-a-spider-mite-infestation-v0-xzqg036i5z7d1.webp,Spider Mites,Spider Mites:series:11,val
+pest_data/ML/Spider Mites/how-to-get-rid-of-spider-mites.webp,Spider Mites,pest_data/ML/Spider Mites/how-to-get-rid-of-spider-mites.webp,train
+pest_data/ML/Spider Mites/images.jpg,Spider Mites,pest_data/ML/Spider Mites/images.jpg,train
+pest_data/ML/Spider Mites/img_6153_sml.jpg,Spider Mites,Spider Mites:series:18,train
+pest_data/ML/Spider Mites/img_6161_sml.jpg,Spider Mites,Spider Mites:series:18,train
+pest_data/ML/Spider Mites/img_6164_sml.jpg,Spider Mites,Spider Mites:series:18,train
+pest_data/ML/Spider Mites/istockphoto-1266742194-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1266742194-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1268293209-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1268293209-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1318413140-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1318413140-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1351146318-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1351146318-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1351146326-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1351146326-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1351146976-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1351146976-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1389316453-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1389316453-612x612.jpg,test
+pest_data/ML/Spider Mites/istockphoto-1399958040-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1399958040-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1413811435-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1413811435-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1415840612-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1415840612-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1457748603-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1457748603-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1556246590-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1556246590-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1556246591-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1556246591-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1731814046-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1731814046-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-1922947523-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1922947523-612x612.jpg,test
+pest_data/ML/Spider Mites/istockphoto-2192672567-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2192672567-612x612.jpg,val
+pest_data/ML/Spider Mites/istockphoto-2205572591-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2205572591-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-2210716488-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2210716488-612x612.jpg,val
+pest_data/ML/Spider Mites/istockphoto-2212681504-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2212681504-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-2212681508-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2212681508-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-2212681509-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2212681509-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-2227130698-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2227130698-612x612.jpg,test
+pest_data/ML/Spider Mites/istockphoto-2229382916-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2229382916-612x612.jpg,val
+pest_data/ML/Spider Mites/istockphoto-2250191688-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2250191688-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-2275774269-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2275774269-612x612.jpg,val
+pest_data/ML/Spider Mites/istockphoto-2275775684-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2275775684-612x612.jpg,test
+pest_data/ML/Spider Mites/istockphoto-488300649-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-488300649-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-506762255-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-506762255-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-579129690-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-579129690-612x612.jpg,train
+pest_data/ML/Spider Mites/istockphoto-579130692-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-579130692-612x612.jpg,train
+pest_data/ML/Spider Mites/large_spider_mites1_6539c5af-f58c-44d6-acab-ba5f0dc11a27.webp,Spider Mites,Spider Mites:series:12,train
+pest_data/ML/Spider Mites/large_spider_mites2_8c637908-b2ba-419d-bb3c-099938911e4f.webp,Spider Mites,Spider Mites:series:12,train
+pest_data/ML/Spider Mites/large_spider_mites3_b9a826d5-15c9-4ec0-8e31-e8520a4e6181.webp,Spider Mites,Spider Mites:series:12,train
+pest_data/ML/Spider Mites/nag-1781005608900-1.jpg,Spider Mites,pest_data/ML/Spider Mites/nag-1781005608900-1.jpg,train
+pest_data/ML/Spider Mites/nag-1781005743014.jpg,Spider Mites,pest_data/ML/Spider Mites/nag-1781005743014.jpg,test
+pest_data/ML/Spider Mites/nag-1781992937641.jpg,Spider Mites,pest_data/ML/Spider Mites/nag-1781992937641.jpg,train
+pest_data/ML/Spider Mites/nn2EydwnBEFqXMqiC4PVJQ-1600-80.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/nn2EydwnBEFqXMqiC4PVJQ-1600-80.jpg.webp,train
+pest_data/ML/Spider Mites/red-spider-mite-on-coffee-global-eng-3.jpg,Spider Mites,pest_data/ML/Spider Mites/red-spider-mite-on-coffee-global-eng-3.jpg,train
+pest_data/ML/Spider Mites/red-spider-mite-web-nest-symptoms.jpg,Spider Mites,pest_data/ML/Spider Mites/red-spider-mite-web-nest-symptoms.jpg,train
+pest_data/ML/Spider Mites/red-spider-mite_infestation_tomato-1536x1152.webp,Spider Mites,pest_data/ML/Spider Mites/red-spider-mite_infestation_tomato-1536x1152.webp,train
+pest_data/ML/Spider Mites/spider-mite-infestation.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mite-infestation.jpg,train
+pest_data/ML/Spider Mites/spider-mite-symptoms.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mite-symptoms.jpg,test
+pest_data/ML/Spider Mites/spider-mite-tetranychidae.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mite-tetranychidae.jpg,train
+pest_data/ML/Spider Mites/spider-mite-webbing-houseplant-leaf.webp,Spider Mites,pest_data/ML/Spider Mites/spider-mite-webbing-houseplant-leaf.webp,train
+pest_data/ML/Spider Mites/spider-mite-webbing-v02b.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mite-webbing-v02b.jpg,train
+pest_data/ML/Spider Mites/spider-mites-684303.jxl.png,Spider Mites,pest_data/ML/Spider Mites/spider-mites-684303.jxl.png,train
+pest_data/ML/Spider Mites/spider-mites-greenhouse-identification-prevention-control_lg.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mites-greenhouse-identification-prevention-control_lg.jpg,test
+pest_data/ML/Spider Mites/spider-mites-on-indoor-plants-min.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mites-on-indoor-plants-min.jpg,train
+pest_data/ML/Spider Mites/spider-mites-post-1800-x-1200-Watermark-1-1536x1024.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/spider-mites-post-1800-x-1200-Watermark-1-1536x1024.jpg.webp,train
+pest_data/ML/Spider Mites/spider-mites_49ef3ebd-a43b-4f46-b5e1-87252a2895f9.webp,Spider Mites,pest_data/ML/Spider Mites/spider-mites_49ef3ebd-a43b-4f46-b5e1-87252a2895f9.webp,train
+pest_data/ML/Spider Mites/spider_mite_8ea2d2fc-e754-4bad-a4e3-e1bf8bf68951.webp,Spider Mites,pest_data/ML/Spider Mites/spider_mite_8ea2d2fc-e754-4bad-a4e3-e1bf8bf68951.webp,train
+pest_data/ML/Spider Mites/spider_mites_2_jpg_480x480.jxl.png,Spider Mites,Spider Mites:series:17,test
+pest_data/ML/Spider Mites/spider_mites_480x480.jxl.png,Spider Mites,Spider Mites:series:17,test
+pest_data/ML/Spider Mites/spider_mites_infestation_cannabis-768x768.jpg,Spider Mites,pest_data/ML/Spider Mites/spider_mites_infestation_cannabis-768x768.jpg,train
+pest_data/ML/Spider Mites/spider_mites_on_leaf.webp,Spider Mites,pest_data/ML/Spider Mites/spider_mites_on_leaf.webp,val
+pest_data/ML/Spider Mites/spidermites_copy_a2dfc9cc-4bce-4105-bcde-0a48f0967ccd.webp,Spider Mites,pest_data/ML/Spider Mites/spidermites_copy_a2dfc9cc-4bce-4105-bcde-0a48f0967ccd.webp,train
+pest_data/ML/Spider Mites/spinn_ohyra_copy_600x600.webp,Spider Mites,pest_data/ML/Spider Mites/spinn_ohyra_copy_600x600.webp,train
+pest_data/ML/Spider Mites/tn_Wk24_1_2012.jpg,Spider Mites,pest_data/ML/Spider Mites/tn_Wk24_1_2012.jpg,train
+pest_data/ML/Spider Mites/twospotted-spider-mite-on-web-JAK.jpg,Spider Mites,Spider Mites:series:16,train
+pest_data/ML/Spider Mites/twospotted-spider-mite-on-web-JAK.webp,Spider Mites,Spider Mites:series:16,train
+pest_data/ML/Spider Mites/tzbuVfWkWlT2jZ5DUVfXQFXffq1zP5brVN3bVhCD.webp,Spider Mites,pest_data/ML/Spider Mites/tzbuVfWkWlT2jZ5DUVfXQFXffq1zP5brVN3bVhCD.webp,train
+pest_data/ML/Spider Mites/w_Valent-U.S.A.-Spider-Mite-Infested-Almond-Tree3_featured.jpg,Spider Mites,pest_data/ML/Spider Mites/w_Valent-U.S.A.-Spider-Mite-Infested-Almond-Tree3_featured.jpg,train
+pest_data/ML/Spider Mites/ways-to-combat-a-spider-mite-infestation-1702915085.webp,Spider Mites,pest_data/ML/Spider Mites/ways-to-combat-a-spider-mite-infestation-1702915085.webp,train

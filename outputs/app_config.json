@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "Aphids",
+    "Mealy Bugs",
+    "Spider Mites"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "model": "vgg16_finetuned.keras"
+}

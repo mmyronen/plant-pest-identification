@@ -1,0 +1,5 @@
+Model,Validation Accuracy,Validation Macro F1
+VGG16 + SVM,0.671642,0.67406
+Unregularized Dense,0.6567164063453674,0.6568840579710145
+Dropout + Augmentation + Early Stopping,0.5820895433425903,0.5840101927058449
+Dropout + Early Stopping,0.6268656849861145,0.6271409749670619

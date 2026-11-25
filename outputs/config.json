@@ -1,0 +1,21 @@
+{
+  "classes": [
+    "Aphids",
+    "Mealy Bugs",
+    "Spider Mites"
+  ],
+  "backbone": "VGG16",
+  "weights": "imagenet",
+  "pooling": "avg",
+  "image_size": [
+    224,
+    224
+  ],
+  "seed": 42,
+  "augmented_views": 3,
+  "selected_parameters": {
+    "C": 10,
+    "gamma": 0.001,
+    "kernel": "rbf"
+  }
+}

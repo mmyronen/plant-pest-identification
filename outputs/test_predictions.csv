@@ -1,0 +1,66 @@
+path,label,group,split,prediction
+pest_data/ML/Aphids/799-2-1536x1024.jpg,Aphids,pest_data/ML/Aphids/799-2-1536x1024.jpg,test,Aphids
+pest_data/ML/Aphids/Aphids (Outdoor)_Asclepias incarnata (DM) (5).JPG,Aphids,pest_data/ML/Aphids/Aphids (Outdoor)_Asclepias incarnata (DM) (5).JPG,test,Aphids
+pest_data/ML/Aphids/Aphids-on-Cherry-Leaf.webp,Aphids,pest_data/ML/Aphids/Aphids-on-Cherry-Leaf.webp,test,Aphids
+pest_data/ML/Aphids/aphid-infestation-header.jpg,Aphids,pest_data/ML/Aphids/aphid-infestation-header.jpg,test,Aphids
+pest_data/ML/Aphids/aphids-2.png,Aphids,pest_data/ML/Aphids/aphids-2.png,test,Aphids
+pest_data/ML/Aphids/how-to-get-rid-of-aphids-naturally.jpg,Aphids,pest_data/ML/Aphids/how-to-get-rid-of-aphids-naturally.jpg,test,Aphids
+pest_data/ML/Aphids/how-to-get-rid-of-aphids.jpg,Aphids,pest_data/ML/Aphids/how-to-get-rid-of-aphids.jpg,test,Mealy Bugs
+pest_data/ML/Aphids/istockphoto-1132213310-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1132213310-612x612.jpg,test,Aphids
+pest_data/ML/Aphids/istockphoto-1168991449-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1168991449-612x612.jpg,test,Spider Mites
+pest_data/ML/Aphids/istockphoto-1205142622-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1205142622-612x612.jpg,test,Aphids
+pest_data/ML/Aphids/istockphoto-1240757329-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1240757329-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Aphids/istockphoto-1272603825-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1272603825-612x612.jpg,test,Aphids
+pest_data/ML/Aphids/istockphoto-1333752953-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1333752953-612x612.jpg,test,Spider Mites
+pest_data/ML/Aphids/istockphoto-1393126363-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1393126363-612x612.jpg,test,Spider Mites
+pest_data/ML/Aphids/istockphoto-1401359591-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-1401359591-612x612.jpg,test,Aphids
+pest_data/ML/Aphids/istockphoto-2154171035-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2154171035-612x612.jpg,test,Aphids
+pest_data/ML/Aphids/istockphoto-2170507912-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2170507912-612x612.jpg,test,Aphids
+pest_data/ML/Aphids/istockphoto-2216085571-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2216085571-612x612.jpg,test,Aphids
+pest_data/ML/Aphids/istockphoto-2228955850-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-2228955850-612x612.jpg,test,Spider Mites
+pest_data/ML/Aphids/istockphoto-610655312-612x612.jpg,Aphids,pest_data/ML/Aphids/istockphoto-610655312-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Aphids/oleander aphids 3.webp,Aphids,Aphids:series:3,test,Aphids
+pest_data/ML/Aphids/oleander aphids 4.webp,Aphids,Aphids:series:3,test,Aphids
+pest_data/ML/Mealy Bugs/GettyImages-1455890819-e86c65d0a2b844cbb49fb5e260b59931.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/GettyImages-1455890819-e86c65d0a2b844cbb49fb5e260b59931.jpg,test,Aphids
+pest_data/ML/Mealy Bugs/HGIC_IndoorPlants_mealybug_cactus_MDA_400.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/HGIC_IndoorPlants_mealybug_cactus_MDA_400.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/I-HO-PMAR-EG.013.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/I-HO-PMAR-EG.013.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/Sooty-black-mold-from-mealybug-infestation-768x512.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/Sooty-black-mold-from-mealybug-infestation-768x512.jpg,test,Aphids
+pest_data/ML/Mealy Bugs/istockphoto-1166528043-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1166528043-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/istockphoto-1323189433-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1323189433-612x612.jpg,test,Aphids
+pest_data/ML/Mealy Bugs/istockphoto-1360050212-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1360050212-612x612.jpg,test,Aphids
+pest_data/ML/Mealy Bugs/istockphoto-1375973517-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1375973517-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/istockphoto-1452339251-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1452339251-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/istockphoto-1452339270-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1452339270-612x612.jpg,test,Aphids
+pest_data/ML/Mealy Bugs/istockphoto-1879375779-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-1879375779-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/istockphoto-2221136202-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-2221136202-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/istockphoto-461952247-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-461952247-612x612.jpg,test,Spider Mites
+pest_data/ML/Mealy Bugs/istockphoto-470416757-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-470416757-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/istockphoto-475523584-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-475523584-612x612.jpg,test,Aphids
+pest_data/ML/Mealy Bugs/istockphoto-483872938-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-483872938-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/istockphoto-695393030-612x612.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/istockphoto-695393030-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/mealybug-group.jpg,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybug-group.jpg,test,Aphids
+pest_data/ML/Mealy Bugs/mealybug-in-cassava-tanzania-1.jpg,Mealy Bugs,Mealy Bugs:series:6,test,Aphids
+pest_data/ML/Mealy Bugs/mealybug-in-cassava-tanzania-2.jpg,Mealy Bugs,Mealy Bugs:series:6,test,Mealy Bugs
+pest_data/ML/Mealy Bugs/mealybug-in-cassava-tanzania-3.jpg,Mealy Bugs,Mealy Bugs:series:6,test,Aphids
+pest_data/ML/Mealy Bugs/mealybugs2.webp,Mealy Bugs,pest_data/ML/Mealy Bugs/mealybugs2.webp,test,Aphids
+pest_data/ML/Spider Mites/3_2_How_to_spot_spider_mites_min_e1f0d84ba9.jpg,Spider Mites,pest_data/ML/Spider Mites/3_2_How_to_spot_spider_mites_min_e1f0d84ba9.jpg,test,Mealy Bugs
+pest_data/ML/Spider Mites/AeqzTI7ntBynyfaplnYN23VpW2W7VucXlSmYKBIS.webp,Spider Mites,pest_data/ML/Spider Mites/AeqzTI7ntBynyfaplnYN23VpW2W7VucXlSmYKBIS.webp,test,Spider Mites
+pest_data/ML/Spider Mites/How-to-Detect-and-Control-Spider-Mite-Infestations-Hero-2.jpg,Spider Mites,pest_data/ML/Spider Mites/How-to-Detect-and-Control-Spider-Mite-Infestations-Hero-2.jpg,test,Spider Mites
+pest_data/ML/Spider Mites/P6dHk8mKrJde7ysAPpPob6-1600-80.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/P6dHk8mKrJde7ysAPpPob6-1600-80.jpg.webp,test,Spider Mites
+pest_data/ML/Spider Mites/Pests_Smaller-2_9ca25ad1-4e38-4342-89f7-279527d4c11a.webp,Spider Mites,pest_data/ML/Spider Mites/Pests_Smaller-2_9ca25ad1-4e38-4342-89f7-279527d4c11a.webp,test,Spider Mites
+pest_data/ML/Spider Mites/Spider-Mites-2A.jpg,Spider Mites,pest_data/ML/Spider Mites/Spider-Mites-2A.jpg,test,Aphids
+pest_data/ML/Spider Mites/Spider-Mites-Infesting-a-Houseplant.jpg,Spider Mites,pest_data/ML/Spider Mites/Spider-Mites-Infesting-a-Houseplant.jpg,test,Spider Mites
+pest_data/ML/Spider Mites/Spider_mites-5_480x480.jxl.png,Spider Mites,Spider Mites:series:17,test,Spider Mites
+pest_data/ML/Spider Mites/VaoDkRUHbuMfN4ahoJ4veG-1600-80.jpg.webp,Spider Mites,pest_data/ML/Spider Mites/VaoDkRUHbuMfN4ahoJ4veG-1600-80.jpg.webp,test,Spider Mites
+pest_data/ML/Spider Mites/YnkvXWioMWirT8KjUUBgG7.jpg,Spider Mites,pest_data/ML/Spider Mites/YnkvXWioMWirT8KjUUBgG7.jpg,test,Spider Mites
+pest_data/ML/Spider Mites/a-plant-covered-in-spider-mite-webs.webp,Spider Mites,pest_data/ML/Spider Mites/a-plant-covered-in-spider-mite-webs.webp,test,Spider Mites
+pest_data/ML/Spider Mites/adobestock_524535509_fmt.png,Spider Mites,pest_data/ML/Spider Mites/adobestock_524535509_fmt.png,test,Spider Mites
+pest_data/ML/Spider Mites/istockphoto-1389316453-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1389316453-612x612.jpg,test,Aphids
+pest_data/ML/Spider Mites/istockphoto-1922947523-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-1922947523-612x612.jpg,test,Mealy Bugs
+pest_data/ML/Spider Mites/istockphoto-2227130698-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2227130698-612x612.jpg,test,Spider Mites
+pest_data/ML/Spider Mites/istockphoto-2275775684-612x612.jpg,Spider Mites,pest_data/ML/Spider Mites/istockphoto-2275775684-612x612.jpg,test,Aphids
+pest_data/ML/Spider Mites/nag-1781005743014.jpg,Spider Mites,pest_data/ML/Spider Mites/nag-1781005743014.jpg,test,Spider Mites
+pest_data/ML/Spider Mites/spider-mite-symptoms.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mite-symptoms.jpg,test,Aphids
+pest_data/ML/Spider Mites/spider-mites-greenhouse-identification-prevention-control_lg.jpg,Spider Mites,pest_data/ML/Spider Mites/spider-mites-greenhouse-identification-prevention-control_lg.jpg,test,Spider Mites
+pest_data/ML/Spider Mites/spider_mites_2_jpg_480x480.jxl.png,Spider Mites,Spider Mites:series:17,test,Spider Mites
+pest_data/ML/Spider Mites/spider_mites_480x480.jxl.png,Spider Mites,Spider Mites:series:17,test,Spider Mites

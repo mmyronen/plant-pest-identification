@@ -1,0 +1,9 @@
+{
+  "model": "Fine-Tuned VGG16",
+  "test_accuracy": 0.6307692527770996,
+  "test_loss": 0.9741485714912415,
+  "test_macro_precision": 0.6691742105486846,
+  "test_macro_recall": 0.6341991341991342,
+  "test_macro_f1": 0.61999481999482,
+  "test_samples": 65
+}
