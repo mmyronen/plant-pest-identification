@@ -22,9 +22,7 @@ The cleaned dataset contains 441 images:
 | Spider mites | 101 | 22 | 21 | 144 |
 | Total | 309 | 67 | 65 | 441 |
 
-The dataset is not publicly distributed through this
-repository pending verification of image redistribution
-permissions.
+The cleaned dataset (plant_pests_cleaned.zip) is available for download under the Releases section of this repository (v1.0.0).
 
 ## Implemented Models
 
@@ -67,12 +65,13 @@ pip install -r requirements.txt
 Google Colab with a GPU runtime is recommended for
 model training.
 
-1. Open `TME6015_Final_project.ipynb` in Google Colab.
-2. Navigate to Runtime > Change runtime type.
-3. Select a T4 GPU.
-4. Upload `plant_pests_cleaned.zip` when prompted,
+1. Download plant_pests_cleaned.zip from the Releases section of this repository (v1.0.0).
+2. Open `TME6015_Final_project.ipynb` in Google Colab.
+3. Navigate to Runtime > Change runtime type.
+4. Select a T4 GPU.
+5. Upload `plant_pests_cleaned.zip` when prompted,
    using an authorized copy of the dataset.
-5. Run the notebook cells sequentially.
+6. Run the notebook cells sequentially.
 
 The notebook includes dataset preparation, feature
 extraction, model training, hyperparameter tuning,
@@ -85,11 +84,13 @@ Training outputs are saved in the `outputs/` directory.
 The larger trained models are available under the
 Releases section of this repository (v1.0.0):
 
+- `plant_pests_cleaned.zip`
 - `vgg16_warmup.keras`
 - `vgg16_finetuned.keras`
 
-Download these files and place them in the `outputs/`
-directory.
+Download the dataset to reproduce the training process. 
+Download the trained models and place them in the `outputs/`
+directory to perform inference without retraining.
 
 The fine-tuned VGG16 model is used by the downstream
 application.
