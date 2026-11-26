@@ -67,7 +67,7 @@ pip install -r requirements.txt
 Google Colab with a GPU runtime is recommended for
 model training.
 
-1. Open `plant_pest_classification.ipynb` in Google Colab.
+1. Open `TME6015_Final_project.ipynb` in Google Colab.
 2. Navigate to Runtime > Change runtime type.
 3. Select a T4 GPU.
 4. Upload `plant_pests_cleaned.zip` when prompted,
