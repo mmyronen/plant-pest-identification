@@ -43,7 +43,7 @@ plant-pest-classification/
 ├── README.md
 ├── requirements.txt
 ├── app.py
-├── plant_pest_classification.ipynb
+├── TME6015_Final_project.ipynb
 └── outputs/
     ├── Trained models
     ├── Configuration files
