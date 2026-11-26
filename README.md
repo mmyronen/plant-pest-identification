@@ -79,7 +79,7 @@ regularization, fine-tuning, and performance evaluation.
 
 Training outputs are saved in the `outputs/` directory.
 
-## Pretrained Models
+## Release Files
 
 The larger trained models are available under the
 Releases section of this repository (v1.0.0):
